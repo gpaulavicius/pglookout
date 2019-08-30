@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpglookout.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpglookout?ref=badge_shield)
+
 pglookout |BuildStatus|_
 ========================
 
@@ -393,3 +395,7 @@ Bug reports and patches are very welcome, please post them as GitHub issues
 and pull requests at https://github.com/aiven/pglookout .  Any possible
 vulnerabilities or other serious issues should be reported directly to the
 maintainers <pglookout@ohmu.fi>.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpglookout.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpglookout?ref=badge_large)
